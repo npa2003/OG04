@@ -1,1 +1,1 @@
-print('Ветка main' )
+print('Ветка branch_02' )
